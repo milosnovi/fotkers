@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+#changeBackgroundColor {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.close_button {
+	background-color:black;
+	border: 1px solid red;
+	color: white;
+	margin-top: 7px;
+	padding: 5px;
+	text-decoration: none;
+}
+
+.showFullSizeImage {
+	text-align: center;
+}

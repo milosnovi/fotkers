@@ -1,0 +1,1020 @@
+#container {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family:Arial,Helvetica,sans-serif;
+}
+
+#header {
+	width: 800px;
+	height: 70px;
+	float: left;
+	margin-bottom: 10px;
+	border-bottom: 2px solid blue;
+}
+
+#userMenu {
+	width: 800px;
+	float: left;
+}
+
+#siteName {
+	width: 540px;
+	float: left;
+}
+
+#loginStatus {
+	width: 300px;
+	float: right;
+}
+
+#searchBoxField {
+	width: 300px;
+	float: right;
+}
+
+.loginStatus {
+	margin: 0 5px 0 5px;
+	width
+}
+
+img.full_size_view_landscape {
+	width: 500px;
+}
+
+img.full_size_view_portrait {
+	width: 400px;
+	margin: 0 30px;
+}
+
+div.panelForPicturesWithAlbum {
+	width: 600px;
+	float: left;
+	position: realtive;
+	//border: 1px solid;
+	font-size: 12px;
+	background-color: white;
+}
+
+div.panelForPicturesWithoutAlbum {
+	width: 800px;
+	float: left;
+	position: realtive;
+	//border: 1px solid;
+	font-size: 12px;
+	background-color: white;
+}
+
+
+#commentsPanel {
+	padding-top: 30px;
+	width: 500px;
+	float: left;
+	postition: realtive;
+}
+
+#footer {
+	width: 800px;
+	float: left;
+	postition: realative;
+}
+
+#content {
+	width: 800px;
+	float: left;
+	font-size: 13px;
+}
+
+#PanelForAlbums {
+	width: 195px;
+	float: left;
+	position: relative;
+	//border: 1px solid;
+	min-height: 350px;
+	font-size: 12px;
+	
+}
+
+div.picturePanelHomePage {
+	width: 125px;
+	height: 190px;
+	margin: 10px;
+	float: left;
+	border: 1px solid black;
+ 	text-align: center;
+}
+
+div.picturePanel {
+	width: 275px;
+	height: 320px;
+	margin: 10px 10px;
+	float: left;
+	//border: 1px solid black;
+ 	text-align: center;
+}
+
+div.picturePanelWithoutAlbum {
+	width: 243px;
+	height: 320px;
+	margin: 10px;
+	float: left;
+	//order: 1px solid black;
+ 	text-align: center;
+}
+
+#pictureCommentPanel {
+	width: 500px;
+	float: left;
+	position: relative;
+}
+
+#navigationPanel {
+	width: 300px;
+	font-size: 12px;
+	float: left;
+	padding-top: 37px;
+	position: relative;
+}
+
+#navigationPanel legend {
+	font-size: 13px;
+	margin-left: 10px;
+	font-weight: bold;
+}
+
+#leftRightNavigation {
+	width: 250px;
+	float: left;
+	position: relative;
+	height: 150px;
+	padding-left: 50px;
+	text-align: center;
+}
+
+#imageInfo {
+	width: 260px;
+	float: left;
+	position: relative;
+	padding-left: 30px;
+}
+
+#imageInfo fieldset ul li.tags {
+	margin-bottom: 5px;
+	list-style-type: circle;
+}
+#nextPicture {
+	width: 110px;
+	float: left;
+	position: relative;
+	height: 150px;
+	overflow:hidden; 
+}
+
+#previousPicture {
+	width: 110px;
+	float: left;
+	position: relative;
+	height: 150px;
+	overflow:hidden; 
+}
+
+fieldset p {
+	margin: 10px 0;
+}
+
+#CommentValue {
+	width: 450px;
+}
+
+div.comment-owner {
+	left: 0;
+	margin-left: -85px;
+	position: absolute;
+	top: 0;
+	vertical-align: top;
+	width: 80px;
+}
+
+div.comment-content {
+	padding-bottom:6px;
+	padding-left:6px;
+	position:relative;
+}
+
+div.comment-block {
+	margin-left:90px;
+	min-height:63px;
+	position:relative;
+	vertical-align:top;
+	padding-bottom: 25px;
+}
+
+div.comment-block p {
+	margin-top: 12px;
+}
+
+div.showAvatarPicture {
+	//border:5px solid #999999;
+	float:left;
+	margin:10px;
+	padding-top:10px;
+	width:200px;
+}
+
+div.uploadAvatarPicture {
+	border: 5px solid #999;
+	float: left;
+	margin: 10px;
+	padding:10px;
+	width: 240px;
+}
+
+div.UserDetail {
+	width: 450px;
+	float: left;
+	margin: 10px;
+	padding: 10px;
+	border: 5px solid #999;
+	position: relative;
+}
+
+div.viewUserDetail {
+	width: 360px;
+	float: left;
+	margin: 10px;
+	padding: 10px;
+	position: relative;
+}
+
+div.avatarPicture{
+	//border:1px solid;
+	//width:220px;
+	height: 150px;
+	//margin: auto;
+	text-align:center;
+	//width: 50%;
+}
+
+.submit_button {
+	padding: 5px;
+}
+
+div.submit {
+	padding: 0;
+	float: left;
+	width: 57px;
+}
+
+#authorsTopRatedPhoto {
+	width: 700px;
+	padding: 20px 0 20px 0;
+	float: left;
+}
+
+#lastAddedPhotos {
+	width: 700px;
+	padding: 20px 0 20px 0;
+	float: left;
+}
+
+.Links {
+	font-size: 12px;
+	font-family:Arial,Helvetica,sans-serif;
+	margin-top: 3px;
+}
+
+
+div label.labelForm {
+	width: 105px;
+	text-align: right;
+	color: #666666;
+	font-weight: bold;
+	padding-right: 10px;
+	float: left;
+}
+
+
+div label.labelImageInfo {
+	width: 80px;
+	color: #666666;
+	//text-align: right;
+	font-weight: bold;
+	padding-right: 15px;
+	float: left;
+}
+
+div label.labelAlbumInfo {
+	width: 125px;
+	color: #666666;
+	//text-align: right;
+	font-weight: bold;
+	padding-right: 15px;
+	float: left;
+}
+
+div label.loginForm {
+	width: 85px;
+	color: #666666;
+	font-weight: bold;
+	float: left;
+}
+
+div input.loginFormCheckbox {
+	margin-left: 85px;
+}
+
+
+#UserEditProfileForm p {
+	margin-bottom: 10px;
+}
+
+
+a.userMenuButtons {
+	text-decoration:none;
+	padding: 2px;
+	color: #0259C4;
+}
+
+a.userMenuButtons:hover {
+	//text-decoration:none;
+	background-color: #0063DC;
+	color: white;
+}
+
+tr.odd{
+	background: #E6F5FB none repeat scroll 0 0;
+	height: 110px;
+}
+
+tr.even{
+	background: white none repeat scroll 0 0;
+	height: 110px;
+}
+
+table.allUsers th{
+	width: 110px;
+}
+
+#poruke_o_greskama {
+	height: 20px;
+}
+div.error-message {
+	//height: 20px;
+	color: red;
+	padding-left:115px;
+	font-size: 12px;
+}
+
+div.vsThumbs {
+	float: right;
+	width: 430px;
+}
+
+div.coverThumb {
+	width: 350px;
+	float: left;
+	position: relative;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background: #EEEFFF;
+}
+
+.linkCreateAlbum {
+	background-color:#5FA1FF;
+	float: left;
+	border: 1px solid #cccccc;
+	color:black;
+	font-family:arial,helvetica,sans-serif;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top:0;
+	text-decoration:none;
+}
+
+#formAddNewGallery {
+	
+}
+
+#allAlbums {
+	width: 800px;
+	float: left;
+	min-height: 300px;
+	font-size: 12px;
+}
+
+div.albumThums {
+	float: left;
+	position: relative;
+	width: 150px;
+	text-align: center;
+	margin: 5px;
+}
+
+div.albumGeneralInformation {
+	width: 800px;
+	float: left;
+	margin-bottom: 30px;
+	min-height: 350px;
+}
+
+div.addPhotoToAlbum {
+	margin-top: 20px;
+	width: 800px;
+	float: left;
+}
+
+div.full_size {
+	float:left;
+	position:relative;
+	width:300px;
+	text-align: center;
+}
+
+div.albumInformations {
+	float: left;
+	position: relative;
+	width: 430px;
+}
+
+div.albumThumb {
+	text-align: center;
+	margin: 10px;
+	padding: 10px;
+	font-size: 12px;
+	color: black;
+}
+
+
+div.addPhotoToAlbum ul {
+	margin: 0 0 5px 0;
+	padding-left: 0;
+	display: inline;
+	float: left;
+} 
+
+div.addPhotoToAlbum ul li {
+	margin-left: 0;
+	margin-bottom: 0;
+	padding: 2px 15px 5px;
+	border: 1px solid #000;
+	list-style: none;
+	display: inline;
+}
+
+.selected {
+	background: #0ABBD2;  
+}
+
+div.addPhotoToAlbum ul li.here {
+	border-bottom: 1px solid #ffc;
+	list-style: none;
+	display: inline;
+}
+
+div.allFavoritesPhotos {
+	float: right;
+	margin: 0 100px;
+	width: 600px;
+}
+
+div.popularImages {
+	border-bottom: 1px dotted;
+	float: left;
+	padding: 15px 0;
+	width: 500px;
+}
+
+div.popularImagesPanel {
+	float:left;
+	margin-left:100px;
+	margin-right:100px;
+	margin-top:20px;
+	width:600px;
+}
+
+
+.linkToButton {
+	background-color:#E6E6E6;
+	border: 1px solid #CCCCCC;
+	font-size: 1em;
+	padding: 4px 8px;
+	cursor: pointer;
+}
+
+#addTagsForm {
+	margin: 5px;
+}
+.zoom_icon { 
+	border: none;
+	padding-bottom:0;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:0;
+	width:32px;
+}
+div.albumDetail {
+	width: 500px;
+	float: left;
+	padding: 10px;
+}
+
+div.albumDetailView {
+	float: left;
+	width: 450px;
+	margin-bottom:10px;
+}
+
+li.liTagsPopular {
+	display: inline;
+	background:#F1F1F1 none repeat scroll 0 0;
+	border-left:1px solid #F1F1F1;
+	border-right:1px solid #F1F1F1;
+	border-top:1px solid #F1F1F1;
+	font-size:15px;
+	margin:8px;
+	padding:3px 10px 1px;
+}
+
+li.liTagsPopular a {
+	color: #1057AE;
+	text-decoration: none;
+}
+
+li.liTagsPopularActive {
+	display: inline;
+	border-color:#F1F1F1 #F1F1F1 #FFFFFF;
+	border-style:solid solid none;
+	font-size:18px;
+	margin:8px;
+	padding:3px 15px;
+	background-color: #FFFFFF;
+}
+
+li.liTagsPopularActive a {
+	text-decoration: none;
+	color: #FF0084;
+}
+
+ul.sortByPopular {
+	float:left;
+	margin:0;
+	width: 400px;
+}
+
+a.link_edit_profile {
+	background: #0259C4 none repeat scroll 0 0;
+	bottom: 10px;
+	color: white;
+	padding: 5px;
+	position: absolute;
+	right: 20px;
+	text-decoration: none;
+}
+
+a.link_view_photostream {
+	background: #0259C4 none repeat scroll 0 0;
+	bottom: 10px;
+	color: white;
+	padding: 5px;
+	position: absolute;
+	right: 10px;
+	width: 120px;
+	font-size: 15px;
+	text-align: center;
+	text-decoration: none;
+}
+
+div.serach_result {
+	border: #E6F5FB 2px solid;
+	margin: 10px;
+}
+div.userDetailSubDetail {
+	border: 5px solid #999;
+	margin-left: 100px;
+	margin-right:100px;
+	margin-top: 20px;
+	width: 645px;
+	float: left;
+	position: relative;
+}	
+
+div.search_result_odd {
+	background: #E6F5FB none repeat scroll 0 0;
+	height: 150px;
+	position: relative;
+}
+
+div.search_result_even {
+	height: 150px;
+	position: relative;
+}
+
+div.search_result_image_detail {
+	position: relative;
+	top: 15px;
+	left: 200px;
+	font-size: 13px;
+	width: 500px;
+	line-height: 170%;
+}
+
+.search_result_pictutre_landscape {
+	left: 15px;
+	position: absolute;
+	top: 15px;
+	width: 160px;
+	border: none;
+}
+
+.search_result_pictutre_portrait {
+	height:131px;
+	left:45px;
+	position:absolute;
+	top:10px;
+	border: none;
+}
+
+#ImageSearchActionForm {
+	float:left;
+	padding-top:10px;
+	position:relative;
+	width:240px;
+}
+#ImageSearchActionForm div.submit {
+	left:156px;
+	position:absolute;
+	top:9px;
+}
+
+#ImagesUploadImagesForm {
+	float: left;
+}
+
+#ImageActionUploadPicturesForm {
+	float: left;
+}
+#ImagesActionUploadPicturesForm div.submit {
+	float: left;
+	position: absolute;
+	top: 0pt;
+	left: 225px;
+}
+
+#form_edit_uploaded_images {
+	width: 800px;
+	float: left;	
+	font-size: 12px;
+}
+
+#form_edit_uploaded_images div.photo {
+	width: 360px;
+	float: left;
+	margin: 10px;
+	text-align: center;
+}
+
+#form_edit_uploaded_images div.photo img.landscape {
+	width: 300px;
+	border: none;
+}
+
+#form_edit_uploaded_images img.portrait {
+	height: 250px;
+	border: none;
+}
+
+#form_edit_uploaded_images #input_div {
+	margin: 10px 10px 0 10px;
+	float: left;
+}
+
+#form_edit_uploaded_images input.input_field {
+	width: 250px;
+}
+
+#form_edit_uploaded_images input.input_field_description {
+	width: 220px;
+}
+
+#form_edit_uploaded_images label.label {
+	padding-right: 10px;
+	float: left;
+	width: 70px;
+	color: #666666;
+	text-align: right;
+	font-weight: bold;
+}
+
+#addTagsToAllPhotos label.label {
+	padding-right: 10px;
+	float: left;
+	width: 50px;
+	color: #666666;
+	text-align: right;
+	font-weight:bold;
+}
+
+#addTagsToAllPhotos #input_div {
+	margin: 10px;
+}
+
+#addTagsToAllPhotos input {
+	width: 240px;
+}
+
+#commonOperations div.addTagsToAllPhotos {
+	margin: 20px;
+	border: 1px solid black;
+	float: left;
+	width: 340px;
+	height: 100px;
+	background-color: #F5F5F5;
+	padding: 15px 0 0 10px;
+}
+
+select.comboboxSelectAlbum {
+	margin-bottom:10px;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:10px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	width:300px;
+}
+
+#centralPanel {
+	background-color:#F5F5F5;
+	float:left;
+}
+
+div a.button_add_upload_form {
+	border: 1px solid black;
+	float:left;
+	font-size:12px;
+	height:14px;
+	margin-bottom:1px;
+	margin-left:5px;
+	margin-right:1px;
+	margin-top:1px;
+	padding-bottom:3px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:3px;
+	background-color: #F5F5F5;
+	cursor: pointer;
+}
+
+.close_form {
+	cursor: pointer;
+}
+
+#table_all_user {
+	border-collapse:collapse;
+	color:black;
+	font-size:15px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+	width:90%;
+}
+
+#table_all_user td, #table_all_user th {
+	font-size:1em;
+	border: 1px solid #15428B;
+	padding: 3px 7px 2px 7px;
+}
+
+#table_all_user th {
+	font-size: 1.1em;
+	text-align: left;
+	padding-top: 5px;
+	padding-bottom: 4px;
+	background-color: #99BBE8;
+	color:#ffffff;
+}
+
+#table_all_user tr.odd td {
+	color: #000000;
+	background: #E6F5FB none repeat scroll 0 0;
+}
+
+#table_all_user td.avatar {
+	text-align: center;
+}
+
+#table_all_user a {
+	text-decoration: none;
+	color: white;
+}
+
+#table_all_user td a {
+	color: black;
+	text-decoration: underline;
+}
+
+div.previous_linlk {
+	float: left;
+	margin-left: 42px;
+	width: 100px;
+}
+
+div.next_linlk {
+	width: 100px;
+	float: right;
+}
+
+div.paginatot_numbers {
+	float: left;
+	text-align: center;
+	width: 500px;
+}
+#form_edit_userinformation div.submit {
+	position: relative;
+	height: 30px;
+}
+
+#form_edit_userinformation div.submit input {
+	background: #0259C4 none repeat scroll 0 0;
+	color: white;
+	font-size: 15px;
+	padding: 5px;
+	position: absolute;
+	left:115px;
+	text-align: center;
+	text-decoration: none;
+	width: 120px;
+	top: -10px;
+	border: none;
+}
+
+#ImageActionUploadAvatarForm div.submit {
+	position: relative;
+	height: 40px;
+}
+
+#ImageActionUploadAvatarForm div.submit input.submit_button {
+	background: #0259C4 none repeat scroll 0 0;
+	color: white;
+	font-size: 15px;
+	padding: 5px;
+	position: absolute;
+	margin-top: 7px;
+	text-align: center;
+	text-decoration: none;
+	width: 120px;
+	border: none;
+}
+
+div.form_login {
+	border: 3px solid #999999;
+	padding: 10px;
+	width: 280px;
+	height: 120px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:70px;
+	position: relative;
+}
+
+div.form_login div.login_form_checkbox {
+	left: 110px;
+	top: 100px;
+	position: absolute;
+}
+
+div.form_login div.submit {
+	left: 95px;
+	top: 95px;
+	position: absolute;
+}
+
+div.form_login div.submit input {
+	background:#0259C4 none repeat scroll 0 0;
+	color:white;
+	font-size:15px;
+	border: none;
+	padding: 3px;
+	position: absolute;
+	text-align: center;
+	text-decoration: none;
+	width: 90px;
+	
+}
+
+a.link_create_account {
+	background:#0259C4 none repeat scroll 0 0;
+	color:white;
+	font-size:13px;
+	padding:5px 0;
+	position:absolute;
+	text-align:center;
+	text-decoration:none;
+	left: 247px;
+	top: 10px;
+	width:144px;
+}
+
+#UserCreateForm  fieldset {
+	width: 350px;
+	margin: 0px;
+}
+
+#UserCreateForm  fieldset label {
+	width: 125px;
+	color: #666666;
+	font-weight: bold;
+	float: left;
+}
+
+#UserCreateForm  fieldset input {
+	width: 190px;
+}
+
+#UserCreateForm div.submit input {
+	background:#0259C4 none repeat scroll 0 0;
+	color:white;
+	font-size:13px;
+	padding:5px 0;
+	text-align:center;
+	text-decoration:none;
+	width:144px;
+	border: none;
+}
+
+#reistration_form {
+	position: relative;
+	width: 371px;
+}
+
+#backToLogIn {
+	background:#0259C4 none repeat scroll 0 0;
+	color: white;
+	font-size: 13px;
+	position: absolute;
+	padding: 5px 0;
+	text-align: center;
+	text-decoration: none;
+	width: 144px;
+	right: 2px;
+	bottom: -28px;
+	height: 18px;
+}
+
+div.avatarUser_landscape {
+	width: 80px;
+	float: left;
+	text-align: center;
+}
+
+a.dropDownMenu {
+	padding: 5px;
+	display: block;
+	text-decoration: none;
+	float: left;
+}
+ul.subnav {
+	z-index:999;
+	list-style: none;
+	position: absolute; /*--Important - Keeps subnav from affecting main navigation flow--*/
+	left: 0; top: 38px;
+	background: white;
+	margin: 0; 
+	padding: 0;
+	display: none;
+	float: left;
+	width: 170px;
+	border-top:1px solid #999999;
+}
+
+ul.subnav li {
+	margin: 0; padding: 0;
+	//border-top: 1px solid #252525; /*--Create bevel effect--*/
+	//xborder-bottom: 1px solid #444; /*--Create bevel effect--*/
+	clear: both;
+	width: 170px;
+}
+ul.subnav li a {
+	text-decoration: none;
+	color: black;
+	float: left;
+	width: 165px;
+	padding-left: 5px;
+	padding-top: 5px;
+	height: 30px;
+}
+ul.subnav li a:hover {
+	background-color: #0063DC;
+	color: white;
+}
+
+
+
+
+
+
+
+
